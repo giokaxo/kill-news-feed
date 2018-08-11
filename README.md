@@ -1,2 +1,5 @@
-# kill-news-feed
-Chrome extension for disabling Facebook news feed
+# Kill news feed
+
+Chrome extension that removes Facebook news feed
+
+### This is fork of [Remove news feed](https://chrome.google.com/webstore/detail/kill-news-feed/hjobfcedfgohjkaieocljfcppjbkglfd) extension

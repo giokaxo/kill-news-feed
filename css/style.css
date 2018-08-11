@@ -1,0 +1,24 @@
+body {
+    width: 200px;
+    height: 170px;
+}
+
+.logo {
+    max-width: 100%;
+}
+#switch-button {
+    display: block;
+    width: 100%;
+    padding: 15px 30px;
+    background-color: #4e9525;
+    color: white;
+    border-radius: 0;
+    border: none;
+    cursor: pointer;
+}
+#switch-button:focus {
+    outline: none;
+}
+#switch-button.inactive {
+    background-color: #f95959;
+}
